@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/seokki96/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/seokki96/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/seokki96/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/kwonseokki12/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/seokki96/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/seokki96/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/seokki96/leetcode/tree/master/0125-valid-palindrome) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/seokki96/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/seokki96/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/seokki96/leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/kwonseokki12/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/seokki96/leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/seokki96/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/seokki96/leetcode/tree/master/0075-sort-colors) |
@@ -118,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/seokki96/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kwonseokki12/Algorithm/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/seokki96/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/kwonseokki12/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/seokki96/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
@@ -170,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kwonseokki12/Algorithm/tree/master/0002-add-two-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kwonseokki12/Algorithm/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
