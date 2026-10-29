@@ -178,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kwonseokki12/Algorithm/tree/master/0042-trapping-rain-water) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kwonseokki12/Algorithm/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
